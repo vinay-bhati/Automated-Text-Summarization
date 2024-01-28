@@ -28,3 +28,18 @@ We begin with data preprocessing and exploratory data analysis (EDA) to prepare 
 • **Data Analysis**: Analyze the length distribution of headlines, text, and condensed text (ctext).  
 • **Prepare Dataset**: Merge headlines and condensed text to create the input-output pairs for summarization.  
 • **Tokenization**: Tokenize the data using appropriate tokenizers for each LLM.  
+
+## Model Architecture:
+We employ the following architecture and models:
+
+• **T5 (Text-To-Text Transfer Transformer)**: Utilized for abstractive summarization.
+• **PEGASUS**: Explored for abstractive summarization.
+• **BART**: Utilized for abstractive summarization.
+
+## Future Work:
+
+• Experiment with different pre-trained models and architectures.  
+• Explore domain-specific fine-tuning for improved summarization in specific domains.  
+• Incorporate user feedback mechanisms to enhance the quality of generated summaries.  
+## Conclusion:
+Text summarization using fine-tuned LLMs presents a promising approach to condense large volumes of text while preserving essential information. By leveraging advanced language models, we can generate concise and coherent summaries that aid in information retrieval and understanding.
