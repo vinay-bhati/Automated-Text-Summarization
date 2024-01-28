@@ -9,7 +9,7 @@ In this project, we delve into the world of text summarization using fine-tuned 
 Text summarization is the process of distilling the main points from a piece of text to create a concise summary. It can be categorized into extractive, where sentences are selected and rearranged, and abstractive, where the summary is generated in a novel way.
  
 ## Summarization Types 📚
-There are two types of summarization techniques employed in this project:
+There are two types of summarization techniques:
 1. **Extractive Summarization**: Involves identifying and extracting key phrases, sentences, or segments directly from the original text to form a condensed version. It's akin to highlighting parts of the text that are deemed most informative or relevant.
 2. **Abstractive Summarization**: Goes beyond mere extraction by understanding the main ideas and expressing them in new words. It's akin to reading a text and then explaining it in one's own words. This is the technique used in this project.
 
