@@ -9,6 +9,6 @@ In this project, we delve into the world of text summarization using fine-tuned 
 There are two types of summarization techniques employed in this project:
 
 1 .Extractive Summarization: Involves identifying and extracting key phrases, sentences, or segments directly from the original text to form a condensed version. It's akin to highlighting parts of the text that are 
-   deemed most informative or relevant.
+   deemed most informative or relevant.  
 2. Abstractive Summarization: Goes beyond mere extraction by understanding the main ideas and expressing them in new words. It's akin to reading a text and then explaining it in one's own words. This is the 
    technique used in this project.
