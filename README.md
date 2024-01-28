@@ -32,9 +32,9 @@ We begin with data preprocessing and exploratory data analysis (EDA) to prepare 
 ## Model Architecture: 🏗️
 We employ the following architecture and models:
 
-• **T5 (Text-To-Text Transfer Transformer)**: Utilized for abstractive summarization.
-• **PEGASUS**: Explored for abstractive summarization.
-• **BART**: Utilized for abstractive summarization.
+• **T5 (Text-To-Text Transfer Transformer)**: Utilized for abstractive summarization.  
+• **PEGASUS**: Explored for abstractive summarization.  
+• **BART**: Utilized for abstractive summarization.  
 
 ## Future Work: 🚀
 
