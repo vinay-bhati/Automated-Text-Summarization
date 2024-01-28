@@ -5,6 +5,9 @@ This repository contains code for performing abstractive text summarization usin
 ## Introduction 🚀  
 In this project, we delve into the world of text summarization using fine-tuned Large Language Models (LLMs) such as T5, PEGASUS, and BART. Text summarization involves condensing a large body of text into a shorter version while retaining its core meaning and main ideas.
 
+## What is Text Summarization? 
+Text summarization is the process of distilling the main points from a piece of text to create a concise summary. It can be categorized into extractive, where sentences are selected and rearranged, and abstractive, where the summary is generated in a novel way.
+
 ## Summarization Types
 There are two types of summarization techniques employed in this project:
 1. Extractive Summarization: Involves identifying and extracting key phrases, sentences, or segments directly from the original text to form a condensed version. It's akin to highlighting parts of the text that are deemed most informative or relevant.
